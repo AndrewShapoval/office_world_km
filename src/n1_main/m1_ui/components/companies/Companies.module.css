@@ -1,0 +1,15 @@
+.companies {
+    width: 40%;
+}
+
+.h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 28px;
+}
+
+@media screen and (max-width: 550px) {
+    .h2 {
+        font-size: 23px;
+    }
+}

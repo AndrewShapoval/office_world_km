@@ -1,0 +1,30 @@
+.company {
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    width: 80%;
+    border-radius: 7px;
+    color: white;
+    padding: 10px;
+    font-size: 14px;
+    background-color: #1db6f5;
+    border: 1px solid #1db6f5;
+    box-shadow: 0px 5px 0px #06638a;
+}
+
+.button:hover {
+    background-color: #06638a;
+}
+
+.button:disabled {
+    background-color: #06638a;
+}
+
+@media screen and (max-width: 550px) {
+    .button {
+        font-size: 14px;
+    }
+}
