@@ -2,7 +2,7 @@ import React from "react";
 import {useSelector} from "react-redux";
 import {AppRootStateType} from "../../../m2_bll/store";
 import {CompanyType, StationType} from "../../../m3_dal/companies-api";
-import styles from "./Stations.module.css"
+import styles from "./Stations.module.scss"
 import {Preloader} from "../../common/preloader/Preloader";
 import {RequestStatusType} from "../../../m2_bll/app-reducer";
 import {Station} from "./station/Station";

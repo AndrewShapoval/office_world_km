@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Station.module.css"
+import styles from "./Station.module.scss"
 import {StationType} from "../../../../m3_dal/companies-api";
 import favorite from "../../../../../assets/img/like.svg"
 import like from "../../../../../assets/img/heart.svg"

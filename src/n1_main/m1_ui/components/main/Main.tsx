@@ -1,6 +1,6 @@
 import React from "react";
 import {Companies} from "../companies/Companies";
-import styles from "./Main.module.css"
+import styles from "./Main.module.scss"
 import {Stations} from "../stations/Stations";
 
 export const Main = () => {

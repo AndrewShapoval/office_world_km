@@ -1,14 +1,13 @@
 .mainBlock {
-    background-color: aliceblue;
-    padding: 1px 0;
-    min-height: 100vh;
-}
+  background-color: aliceblue;
+  padding: 1px 0;
+  min-height: 100vh;
 
-.mainBlock h1 {
+  h1 {
     text-align: center;
-}
+  }
 
-.mainContainer {
+  .mainContainer {
     height: 100%;
     width: 80%;
     margin: 0 auto;
@@ -16,4 +15,5 @@
     justify-content: space-around;
     flex-wrap: nowrap;
     flex-direction: row;
+  }
 }

@@ -1,13 +1,8 @@
 .station {
-    font-size: 18px;
-    position: relative;
-}
+  font-size: 18px;
+  position: relative;
 
-.like img {
-    width: 20px;
-}
-
-.button {
+  .button {
     border: none;
     background-color: transparent;
     outline: 1px solid transparent;
@@ -17,4 +12,12 @@
     position: absolute;
     top: 0px;
     right: -20px;
+
+    img {
+      width: 20px;
+    }
+  }
 }
+
+
+

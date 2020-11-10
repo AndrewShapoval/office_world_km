@@ -1,9 +1,9 @@
-import React, {useEffect, useState} from "react";
+import React, {useEffect} from "react";
 import {getCompaniesTC, getStationsTC} from "../../../m2_bll/companies-reducer";
 import {useDispatch, useSelector} from "react-redux";
 import {AppRootStateType} from "../../../m2_bll/store";
 import {Company} from "./company/Company";
-import styles from "./Companies.module.css"
+import styles from "./Companies.module.scss"
 import {CompanyType} from "../../../m3_dal/companies-api";
 import {Preloader} from "../../common/preloader/Preloader";
 import {RequestStatusType} from "../../../m2_bll/app-reducer";

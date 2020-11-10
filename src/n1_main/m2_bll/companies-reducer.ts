@@ -42,8 +42,8 @@ export const getCompaniesTC = () => (dispatch: Dispatch<ActionsType>) => {
         .then((res) => {
             dispatch(setCompaniesAC(res.networks))
         })
-        .catch(() => {
-
+        .catch((err) => {
+            console.log(err)
         })
         .finally(() => {
             dispatch(setAppStatusAC("succeeded"))
@@ -57,8 +57,8 @@ export const getStationsTC = (companies: CompanyType) => (dispatch: Dispatch<Act
             dispatch(setCurrentStationsAC(res.network.stations))
             dispatch(setCurrentCompanyAC(companies))
         })
-        .catch(() => {
-
+        .catch((err) => {
+            console.log(err)
         })
         .finally(() => {
             dispatch(setStationsStatusAC("succeeded"))

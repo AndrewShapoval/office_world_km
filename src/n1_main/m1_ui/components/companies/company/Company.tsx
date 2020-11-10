@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Company.module.css"
+import styles from "./Company.module.scss"
 import {useDispatch, useSelector} from "react-redux";
 import {getStationsTC} from "../../../../m2_bll/companies-reducer";
 import {CompanyType} from "../../../../m3_dal/companies-api";
