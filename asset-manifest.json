@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/office_world_km/static/css/main.ced322a4.chunk.css",
-    "main.js": "/office_world_km/static/js/main.15d57420.chunk.js",
-    "main.js.map": "/office_world_km/static/js/main.15d57420.chunk.js.map",
+    "main.css": "/office_world_km/static/css/main.8de484ca.chunk.css",
+    "main.js": "/office_world_km/static/js/main.629c61ea.chunk.js",
+    "main.js.map": "/office_world_km/static/js/main.629c61ea.chunk.js.map",
     "runtime-main.js": "/office_world_km/static/js/runtime-main.c501aa22.js",
     "runtime-main.js.map": "/office_world_km/static/js/runtime-main.c501aa22.js.map",
     "static/js/2.dcb51bfd.chunk.js": "/office_world_km/static/js/2.dcb51bfd.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.f27ff761.chunk.js": "/office_world_km/static/js/3.f27ff761.chunk.js",
     "static/js/3.f27ff761.chunk.js.map": "/office_world_km/static/js/3.f27ff761.chunk.js.map",
     "index.html": "/office_world_km/index.html",
-    "static/css/main.ced322a4.chunk.css.map": "/office_world_km/static/css/main.ced322a4.chunk.css.map",
+    "static/css/main.8de484ca.chunk.css.map": "/office_world_km/static/css/main.8de484ca.chunk.css.map",
     "static/js/2.dcb51bfd.chunk.js.LICENSE.txt": "/office_world_km/static/js/2.dcb51bfd.chunk.js.LICENSE.txt",
     "static/media/heart.c31d61db.svg": "/office_world_km/static/media/heart.c31d61db.svg",
     "static/media/like.b16558c9.svg": "/office_world_km/static/media/like.b16558c9.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.c501aa22.js",
     "static/js/2.dcb51bfd.chunk.js",
-    "static/css/main.ced322a4.chunk.css",
-    "static/js/main.15d57420.chunk.js"
+    "static/css/main.8de484ca.chunk.css",
+    "static/js/main.629c61ea.chunk.js"
   ]
 }
