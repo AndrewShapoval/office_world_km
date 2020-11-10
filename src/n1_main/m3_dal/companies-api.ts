@@ -14,11 +14,12 @@ export const companiesAPI = {
 }
 
 export type CompanyType = {
-    company: string
+    company: Array<string>
     id: string
     location: LocationType
     stations: Array<StationType>
 }
+
 
 export type LocationType = {
     city: string
